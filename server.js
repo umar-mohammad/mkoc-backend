@@ -6,6 +6,7 @@ const data = require("./data.json")
 
 app.get("/cruises/:id", (req, res) => {
     const { id } = req.params
+    console.log(data.cruises.filter((cruise) => cruise.id === id))
     res.json(data.cruises.filter((cruise) => cruise.id === id))
 })
 
