@@ -6,7 +6,12 @@ const data = require("./data.json")
 
 app.get("/cruises/:id", (req, res) => {
     const id = req.params.id
-    res.json(data.cruises.filter((cruise) => cruise.id == id))
+    const resultArray = data.cruises.filter((cruise) => cruise.id == id)
+    if (result.length > 0) {
+        res.json(resultArray[0])
+    } else {
+        res.status(404).send("Cruise Not Found")
+    }
 })
 
 app.get("/cruises", (req, res) => {
