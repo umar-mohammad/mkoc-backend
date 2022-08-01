@@ -1,0 +1,60 @@
+{
+    "cruises": [
+        {
+            "id": 1,
+            "name": "The Unsinkable",
+            "location": "Miami, FL",
+            "price": "$2000",
+            "image": "https://images.pexels.com/photos/813011/pexels-photo-813011.jpeg?cs=srgb&dl=pexels-matthew-barra-813011.jpg&fm=jpg"
+        },
+        {
+            "id": 2,
+            "name": "name",
+            "location": "location",
+            "price": "2000",
+            "image": "https://images.pexels.com/photos/775294/pexels-photo-775294.jpeg?cs=srgb&dl=pexels-maur%C3%ADcio-mascaro-775294.jpg&fm=jpg"
+        },
+        {
+            "id": 3,
+            "name": "name",
+            "location": "location",
+            "price": "2000",
+            "image": "https://images.pexels.com/photos/144237/cruise-ship-cruiser-cruise-ship-144237.jpeg?cs=srgb&dl=pexels-pixabay-144237.jpg&fm=jpg"
+        },
+        {
+            "id": 4,
+            "name": "name",
+            "location": "location",
+            "price": "2000",
+            "image": "https://images.pexels.com/photos/69122/ferry-boat-ferry-ship-boat-69122.jpeg?cs=srgb&dl=pexels-pixabay-69122.jpg&fm=jpg"
+        },
+        {
+            "id": 5,
+            "name": "name",
+            "location": "location",
+            "price": "2000",
+            "image": "https://images.pexels.com/photos/813011/pexels-photo-813011.jpeg?cs=srgb&dl=pexels-matthew-barra-813011.jpg&fm=jpg"
+        },
+        {
+            "id": 6,
+            "name": "name",
+            "location": "location",
+            "price": "2000",
+            "image": "https://images.pexels.com/photos/775294/pexels-photo-775294.jpeg?cs=srgb&dl=pexels-maur%C3%ADcio-mascaro-775294.jpg&fm=jpg"
+        },
+        {
+            "id": 7,
+            "name": "name",
+            "location": "location",
+            "price": "2000",
+            "image": "https://images.pexels.com/photos/144237/cruise-ship-cruiser-cruise-ship-144237.jpeg?cs=srgb&dl=pexels-pixabay-144237.jpg&fm=jpg"
+        },
+        {
+            "id": 8,
+            "name": "name",
+            "location": "location",
+            "price": "2000",
+            "image": "https://images.pexels.com/photos/69122/ferry-boat-ferry-ship-boat-69122.jpeg?cs=srgb&dl=pexels-pixabay-69122.jpg&fm=jpg"
+        }
+    ]
+}
