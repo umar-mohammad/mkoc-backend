@@ -4,57 +4,57 @@
             "id": 1,
             "name": "The Unsinkable",
             "location": "Miami, FL",
-            "price": "$2000",
+            "price": "£1999",
             "image": "https://images.pexels.com/photos/813011/pexels-photo-813011.jpeg?cs=srgb&dl=pexels-matthew-barra-813011.jpg&fm=jpg"
         },
         {
             "id": 2,
-            "name": "name",
-            "location": "location",
-            "price": "2000",
+            "name": "Pacific Princess",
+            "location": "Rome, Italy",
+            "price": "£1399",
             "image": "https://images.pexels.com/photos/775294/pexels-photo-775294.jpeg?cs=srgb&dl=pexels-maur%C3%ADcio-mascaro-775294.jpg&fm=jpg"
         },
         {
             "id": 3,
-            "name": "name",
-            "location": "location",
-            "price": "2000",
+            "name": "Costa Concordia",
+            "location": "Napoli, Italy",
+            "price": "£2499",
             "image": "https://images.pexels.com/photos/144237/cruise-ship-cruiser-cruise-ship-144237.jpeg?cs=srgb&dl=pexels-pixabay-144237.jpg&fm=jpg"
         },
         {
             "id": 4,
-            "name": "name",
-            "location": "location",
-            "price": "2000",
+            "name": "Oasis of the Seas",
+            "location": "Southampton, UK",
+            "price": "£1800",
             "image": "https://images.pexels.com/photos/69122/ferry-boat-ferry-ship-boat-69122.jpeg?cs=srgb&dl=pexels-pixabay-69122.jpg&fm=jpg"
         },
         {
             "id": 5,
-            "name": "name",
-            "location": "location",
-            "price": "2000",
-            "image": "https://images.pexels.com/photos/813011/pexels-photo-813011.jpeg?cs=srgb&dl=pexels-matthew-barra-813011.jpg&fm=jpg"
+            "name": "Carnival Triumph",
+            "location": "Barcelona, Spain",
+            "price": "£3450",
+            "image": "https://images.pexels.com/photos/380169/pexels-photo-380169.jpeg?cs=srgb&dl=pexels-mike-b-380169.jpg&fm=jpg"
         },
         {
             "id": 6,
-            "name": "name",
-            "location": "location",
-            "price": "2000",
-            "image": "https://images.pexels.com/photos/775294/pexels-photo-775294.jpeg?cs=srgb&dl=pexels-maur%C3%ADcio-mascaro-775294.jpg&fm=jpg"
+            "name": "Queen Mary",
+            "location": "Long Beach, CA",
+            "price": "£1949",
+            "image": "https://images.pexels.com/photos/68737/cruise-ship-holidays-cruise-vacation-68737.jpeg?cs=srgb&dl=pexels-pixabay-68737.jpg&fm=jpg"
         },
         {
             "id": 7,
-            "name": "name",
-            "location": "location",
-            "price": "2000",
-            "image": "https://images.pexels.com/photos/144237/cruise-ship-cruiser-cruise-ship-144237.jpeg?cs=srgb&dl=pexels-pixabay-144237.jpg&fm=jpg"
+            "name": "Golden Iris",
+            "location": "Miami, FL",
+            "price": "£1799",
+            "image": "https://images.pexels.com/photos/3663899/pexels-photo-3663899.jpeg?cs=srgb&dl=pexels-diego-f-parra-3663899.jpg&fm=jpg"
         },
         {
             "id": 8,
-            "name": "name",
-            "location": "location",
-            "price": "2000",
-            "image": "https://images.pexels.com/photos/69122/ferry-boat-ferry-ship-boat-69122.jpeg?cs=srgb&dl=pexels-pixabay-69122.jpg&fm=jpg"
+            "name": "Leisure World",
+            "location": "Barcelona, Spain",
+            "price": "£1975",
+            "image": "https://images.pexels.com/photos/635512/pexels-photo-635512.jpeg?cs=srgb&dl=pexels-david-dibert-635512.jpg&fm=jpg"
         }
     ]
 }
